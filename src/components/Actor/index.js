@@ -17,7 +17,7 @@ const Actor = ({name, character, imageUrl}) =>  (
 Actor.propTypes = {
   name: PropTypes.string,
   character: PropTypes.string,
-  character: PropTypes.string
+  imageUrl: PropTypes.string
 }
 
 export default Actor
