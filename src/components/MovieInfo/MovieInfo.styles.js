@@ -26,7 +26,7 @@ export const Content = styled.div`
   background: rgba(0,0,0,0.7);
   border-radius: 20px;
 
-  @media sreen and (max-width: 768px) {
+  @media screen and (max-width: 768px) {
     display: block;
     max-height: none;
   }
