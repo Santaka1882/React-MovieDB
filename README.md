@@ -9,9 +9,10 @@ To view the website [click here](https://mystifying-pasteur-90a761.netlify.app/)
 ## Tecnologies used in the project ⚙
 
 1. [React.js](https://reactjs.org/) (User interface)
-2. [Styled Components](https://styled-components.com/) (Styling)
-3. [The Movie DB](https://www.themoviedb.org/) (All the data)
-4. [Netlify](https://www.netlify.com/) (Deploy)
+2. [React Router](https://reactrouter.com/) (Routing)
+3. [Styled Components](https://styled-components.com/) (Styling)
+4. [The Movie DB](https://www.themoviedb.org/) (All the data)
+5. [Netlify](https://www.netlify.com/) (Deploy)
 
 ## Features 📃
 - The home count with an updated list of popular movies. ✔
