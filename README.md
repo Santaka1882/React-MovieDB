@@ -4,7 +4,7 @@
 
 The React Movie Database is a proyect made by me using React.js, based in the freeCodeCamp React course.
 
-To view the website [click here](https://mystifying-pasteur-90a761.netlify.app/).
+To view the website [click here](https://react-movie-database123.netlify.app).
 
 ## Tecnologies used in the project ⚙
 
